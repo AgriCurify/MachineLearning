@@ -8,10 +8,10 @@ Apart from that, this application will also provide advice on the treatment need
 3. **Tomato Leaf Disease Prediction**
 
 ## Machine Learning Deliverables
-- Collecting for available datasets
-- Finish the Advanced Preprocessing dataset
-- Building and testing a baseline model
-- Saving the baseline model, advanced preprocessing of data and model optimization
+- Gathering available datasets  
+- Completing the advanced data preprocessing  
+- Developing and evaluating a baseline model  
+- Saving the baseline model, advanced data preprocessing, and model optimization
 
 ## Dataset Source
 - Apple: https://www.kaggle.com/datasets/muhammadraihanf12/agricurify-apple
