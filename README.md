@@ -14,12 +14,14 @@ Apart from that, this application will also provide advice on the treatment need
 - Saving the baseline model, advanced preprocessing of data and model optimization
 
 ## Dataset Source
-[PlantVillage Dataset: Pepper Bell, Corn, and Potato](https://github.com/spMohanty/PlantVillage-Dataset)
+- Apple: https://www.kaggle.com/datasets/muhammadraihanf12/agricurify-apple
+- Grape: https://www.kaggle.com/datasets/muhammadraihanf12/agricurify-grape
+- Tomato: https://www.kaggle.com/datasets/muhammadraihanf12/agricurify-tomatov2 
 
 ### Preview Disease Images
-<img src="image/Apple_Preview.png" width="700">
-<img src="image/Grape_Preview.png" width="700">
-<img src="image/Tomato_Preview.png" width="700">
+<img src="Apple_Preview.png" width="700">
+<img src="Grape_Preview.png" width="700">
+<img src="Tomato_Preview.png" width="700">
 
 ## Documentation
 1. Clone this github repository or download zip and extract it 
