@@ -1,6 +1,5 @@
 # AgriCurify-ML
 
-## AgriCurify
 AgriCurify, a user-friendly machine learning-powered mobile application, helps farmers quickly diagnose plant diseases using their smartphone cameras. It provides easy-to-follow prevention and treatment guides to support farmers in managing plant health and boosting crop productivity.
 Apart from that, this application will also provide advice on the treatment needed to overcome detected plant diseases. The initial release includes three main features: 
 1. **Apple Leaf Disease Prediction**
@@ -26,7 +25,7 @@ Apart from that, this application will also provide advice on the treatment need
 ## Documentation
 1. Clone this github repository or download zip and extract it 
 
-    ![image](https://github.com/AgriCurify/MachineLearning.git)
+    (https://github.com/AgriCurify/MachineLearning.git)
 
 2. Open the ipynb file contained in each folder using google colaboratory
 3. Download the dataset
