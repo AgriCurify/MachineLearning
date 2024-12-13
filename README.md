@@ -17,7 +17,7 @@ Apart from that, this application will also provide advice on the treatment need
 - Grape: https://www.kaggle.com/datasets/muhammadraihanf12/agricurify-grape
 - Tomato: https://www.kaggle.com/datasets/muhammadraihanf12/agricurify-tomatov2 
 
-### Preview Disease Images
+### Preview Images
 <img src="Apple_Preview.png" width="700">
 <img src="Grape_Preview.png" width="700">
 <img src="Tomato_Preview.png" width="700">
