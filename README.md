@@ -25,7 +25,7 @@ Apart from that, this application will also provide advice on the treatment need
 ## Documentation
 1. Clone this github repository or download zip and extract it 
 
-    (https://github.com/AgriCurify/MachineLearning.git)
+   <img src="Clone_path.png" width="700">
 
 2. Open the ipynb file contained in each folder using google colaboratory
 3. Download the dataset
